@@ -16,7 +16,8 @@ for line in fh:
 print("Average spam confidence:", total / count)
 
 
-# Inicial code
+
+# 7.2 v1.py
 # Use the file name mbox-short.txt as the file name
 fname = input("Enter file name: ")
 fh = open(fname, "r")
